@@ -1,0 +1,110 @@
+[
+    {
+        "image_id": "page_1_img_0",
+        "image_path": "extracted_images/page_1_img_0.png",
+        "page_number": 1,
+        "nearby_text": "International Research Journal of Engineering and Technology (IRJET) e-ISSN: 2395-0056 Volume: 07 Issue: 08 | Aug 2020 www.irjet.net p-ISSN: 2395-0072 A Study on Artificial Intelligence N Satya Abhisht1 1III.B.TECH-AERO, GITAM UNIVERSITY, Rudraram, Hyderabad, Telangana, India ---------------------------------------------------------------------***---------------------------------------------------------------------- Abstract \u2013 Artificial Intelligence is concerned in developing machines or systems that can perform human tasks with precision. These systems are highly efficient and are capable of showing intelligent behavior. These systems learn from their experiences. AI is a rapidly developing area of computer science and Technology. AI has a huge scope in future, currently many researches are going on in the field of Robotics, Machine Learning, Neural Networks and Pattern Recognition. Expert Systems are an important part of Artificial Intelligence. Expert systems help the AI in making decisions based on intelligence. AI has the ability to reshape the future of innovations and it can also impact the Research and Development sector in a positive way. In this paper I am going to discuss about Artificial intelligence and its applications in industries along with a brief on expert systems. AI has already started making its way into the automobile industry with self- driving cars, navigation and many more by using pattern recognition.",
+        "location": {
+            "top": 44.0999755859375,
+            "bottom": 77.8499755859375,
+            "left": 33.75,
+            "right": 66.75
+        }
+    },
+    {
+        "image_id": "page_2_img_0",
+        "image_path": "extracted_images/page_2_img_0.png",
+        "page_number": 2,
+        "nearby_text": "International Research Journal of Engineering and Technology (IRJET) e-ISSN: 2395-0056 Volume: 07 Issue: 08 | Aug 2020 www.irjet.net p-ISSN: 2395-0072 Fields where Artificial intelligence is used are: \uf0b7 Health care \uf0b7 Automobile industry \uf0b7 Agriculture 1.2 Disadvantages of AI There are some disadvantages of Artificial Intelligence they are as follows: \uf0b7 AI systems are very expensive to develop. \uf0b7 They are very expensive and highly complex to maintain.",
+        "location": {
+            "top": 44.0999755859375,
+            "bottom": 77.8499755859375,
+            "left": 33.75,
+            "right": 66.75
+        }
+    },
+    {
+        "image_id": "page_3_img_0",
+        "image_path": "extracted_images/page_3_img_0.png",
+        "page_number": 3,
+        "nearby_text": "International Research Journal of Engineering and Technology (IRJET) e-ISSN: 2395-0056 Volume: 07 Issue: 08 | Aug 2020 www.irjet.net p-ISSN: 2395-0072 \uf0b7 Amazon\u2019s voice assistant alexa is powered by AI technology which has around 66,000 skills in its inventory. \uf0b7 Self driven cars are safer than regular cars in the US. Artificial intelligence has also impacted the job marked in a huge way. There are around 133 million jobs which will be created by presence of Artificial Intelligence. Self-aware AI it has human like intelligence and self- awareness. This type of AI is also currently in development stage. 1.4 Goals of AI: There are two types of goals of AI they are:",
+        "location": {
+            "top": 44.0999755859375,
+            "bottom": 77.8499755859375,
+            "left": 33.75,
+            "right": 66.75
+        }
+    },
+    {
+        "image_id": "page_3_img_1",
+        "image_path": "extracted_images/page_3_img_1.png",
+        "page_number": 3,
+        "nearby_text": "\uf0b7 Amazon\u2019s voice assistant alexa is powered by AI technology which has around 66,000 skills in its inventory. \uf0b7 Self driven cars are safer than regular cars in the US. Artificial intelligence has also impacted the job marked in a huge way. There are around 133 million jobs which will be created by presence of Artificial Intelligence. Chart: Jobs impacted by AI. This shows the jobs that will be impacted by AI in percentage. AI will increase jobs in some fields whereas it might take away some jobs in certain fields. 1.3 Types of AI There are 4 types of Artificial intelligence they are: Self-aware AI it has human like intelligence and self- awareness. This type of AI is also currently in development stage. 1.4 Goals of AI: There are two types of goals of AI they are: \uf0b7 Scientific goal: used to understand about the mechanism of human intelligence. \uf0b7 Engineering goal: building a tool or machine with human intelligence to solve real world problems. Examples for engineering goals of AI: \uf0b7 Reproduce human intelligence in machines or systems. \uf0b7 Solving knowledge intensive tasks which require lot of information. \uf0b7 Intelligent connection of perception and action. \uf0b7 Speech and vision recognizing systems. \uf0b7 Game playing systems. \uf0b7 End of human mankind by Stephen Hawking. \uf0b7 Life 3.0 by Max Tegmark. \uf0b7 Silicon consciousness by Michio Kaku.",
+        "location": {
+            "top": 212.29998779296875,
+            "bottom": 378.0999755859375,
+            "left": 38.900001525878906,
+            "right": 283.8999938964844
+        }
+    },
+    {
+        "image_id": "page_4_img_0",
+        "image_path": "extracted_images/page_4_img_0.png",
+        "page_number": 4,
+        "nearby_text": "International Research Journal of Engineering and Technology (IRJET) e-ISSN: 2395-0056 Volume: 07 Issue: 08 | Aug 2020 www.irjet.net p-ISSN: 2395-0072 \uf0b7 Expert systems \u2013 Where certain machines are used by combing practical knowledge and intelligence these machines provide advises to the users. \uf0b7 Natural language processing \u2013 It is used in many voice assistants which makes it possible for a human to interact with a computer or a machine in normal language. \uf0b7 Misuse of this technology is a big threat. \uf0b7 99% of jobs might be eliminated in the future based on AI. \uf0b7 It might create better environment between organizations and customers.",
+        "location": {
+            "top": 44.0999755859375,
+            "bottom": 77.8499755859375,
+            "left": 33.75,
+            "right": 66.75
+        }
+    },
+    {
+        "image_id": "page_5_img_0",
+        "image_path": "extracted_images/page_5_img_0.png",
+        "page_number": 5,
+        "nearby_text": "International Research Journal of Engineering and Technology (IRJET) e-ISSN: 2395-0056 Volume: 07 Issue: 08 | Aug 2020 www.irjet.net p-ISSN: 2395-0072 2.2 Capabilities of Expert System \uf0b7 Accurate advises \uf0b7 Arriving at a certain solution \uf0b7 Understanding",
+        "location": {
+            "top": 44.0999755859375,
+            "bottom": 77.8499755859375,
+            "left": 33.75,
+            "right": 66.75
+        }
+    },
+    {
+        "image_id": "page_5_img_1",
+        "image_path": "extracted_images/page_5_img_1.png",
+        "page_number": 5,
+        "nearby_text": "International Research Journal of Engineering and Technology (IRJET) e-ISSN: 2395-0056 Volume: 07 Issue: 08 | Aug 2020 www.irjet.net p-ISSN: 2395-0072 2.2 Capabilities of Expert System \uf0b7 Accurate advises \uf0b7 Arriving at a certain solution \uf0b7 Understanding \uf0b7 Predicts different results \uf0b7 Suggestions in alternate methods to solve a problem. \uf0b7 Assisting humans in different situations \uf0b7 Justifying the result 2.3 Components of an Expert System There are basically three main components of an Expert System: \uf0b7 Knowledge base Fig-1: Components of Expert Systems 2.4 Limitations of Expert Systems Like every technology ES also have certain limitations they are: \uf0b7 Development costs are high.",
+        "location": {
+            "top": 99.25,
+            "bottom": 259.29998779296875,
+            "left": 312.0,
+            "right": 555.5999755859375
+        }
+    },
+    {
+        "image_id": "page_6_img_0",
+        "image_path": "extracted_images/page_6_img_0.png",
+        "page_number": 6,
+        "nearby_text": "International Research Journal of Engineering and Technology (IRJET) e-ISSN: 2395-0056 Volume: 07 Issue: 08 | Aug 2020 www.irjet.net p-ISSN: 2395-0072 2.7 Applications of Expert Systems \uf0b7 Diagnosis systems to detect cause of a disease from given data, conduction of medical operations on humans. \uf0b7 Finding out faults in any kind of device like computers, vehicles, etc. really with full of surprises and new ideas this is an area of technology which is not completely yet developed but just the process of thought in machines is a huge leap forward in technology. REFERENCES 1) https://www.tutorialspoint.com/artificial_intellige",
+        "location": {
+            "top": 44.0999755859375,
+            "bottom": 77.8499755859375,
+            "left": 33.75,
+            "right": 66.75
+        }
+    },
+    {
+        "image_id": "page_6_img_1",
+        "image_path": "extracted_images/page_6_img_1.png",
+        "page_number": 6,
+        "nearby_text": "\u00a9 2020, IRJET | Impact Factor value: 7.529 | ISO 9001:2008 Certified Journal | Page 2200 3. CONCLUSION 10) https://dataprot.net/statistics/ai-statistics/ (\u201ckey statistics of AI\u201d) 11) https://en.wikibooks.org/wiki/The_Computer_Rev olution/Artificial_Intelligence/Expert_Systems (\u201cbenefits of Expert systems\u201d) BIOGRAPHIES Nagalla Satya Abhisht currently pursuing III B.Tech at GITAM University, Hyderabad. My research areas are data analytics, data mining, and propulsion in aerospace.",
+        "location": {
+            "top": 655.6666259765625,
+            "bottom": 733.2078857421875,
+            "left": 308.51153564453125,
+            "right": 386.1769104003906
+        }
+    }
+]
