@@ -7,7 +7,7 @@ python-multipart==0.0.6
 # HTTP and API dependencies
 httpx>=0.28.1
 httpcore>=0.15.0
-requests==2.31.0
+requests==2.32.4
 
 # Mistral AI and LangChain
 mistralai>=0.0.11
