@@ -1,0 +1,41 @@
+# Core dependencies
+streamlit==1.45.0
+fastapi==0.109.0
+uvicorn==0.27.0
+python-multipart==0.0.6
+
+# HTTP and API dependencies
+httpx>=0.28.1
+httpcore>=0.15.0
+requests==2.31.0
+
+# Mistral AI and LangChain
+mistralai>=0.0.11
+langchain>=0.1.5
+langchain-community>=0.0.16
+langchain-core<1.0.0,>=0.3.59
+langchain-mistralai==0.2.10
+langchain-huggingface==0.2.0
+
+# PDF and Image Processing
+PyMuPDF==1.23.8
+Pillow==10.2.0
+imagehash
+
+# Machine Learning and Embeddings
+sentence-transformers>=2.6.0
+faiss-cpu>=1.7.4
+
+# Authentication
+python-jose[cryptography]
+passlib[bcrypt]
+
+# Utility packages
+python-dotenv==1.0.0
+pytz==2023.3
+isodate>=0.6.1
+
+# Agent-specific packages
+deep-translator>=1.11.4
+wikipedia==1.4.0
+duckduckgo-search==8.0.2

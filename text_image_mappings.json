@@ -1,0 +1,14 @@
+[
+    {
+        "image_id": "page_1_img_0",
+        "image_path": "extracted_images/page_1_img_0.png",
+        "page_number": 1,
+        "nearby_text": "",
+        "location": {
+            "top": -0.3599853515625,
+            "bottom": 793.3200073242188,
+            "left": 1.8000000715255737,
+            "right": 611.2799682617188
+        }
+    }
+]
