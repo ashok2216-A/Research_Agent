@@ -19,7 +19,7 @@ langchain-huggingface==0.2.0
 
 # PDF and Image Processing
 PyMuPDF==1.23.8
-Pillow==10.2.0
+Pillow==10.3.0
 imagehash
 
 # Machine Learning and Embeddings
